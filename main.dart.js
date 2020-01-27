@@ -33243,7 +33243,7 @@ u.push(Y.Ss(!1,H.b([new U.aT(s,!1,!0,s,s,s,!1,[t],s,C.k,s,!1,!1,s,C.q)],[Y.aS]),
 u.push(new U.nq("",!1,!0,s,s,s,!1,s,C.x,C.k,"",!0,!1,s,C.aR))
 return!1}return!0}}
 F.A8.prototype={
-M:function(a){return new S.o2(new F.ob("Number generator \ud83d\udc4d",null),"Flutter title",X.Pb(null,C.oM),!1,null)}}
+M:function(a){return new S.o2(new F.ob("Number generator \ud83d\udc4d",null),"Number generator",X.Pb(null,C.oM),!1,null)}}
 F.ob.prototype={
 aM:function(){return new F.r_(C.p)}}
 F.r_.prototype={
